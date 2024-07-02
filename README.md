@@ -13,4 +13,3 @@ $ docker run -d -p 80:80 my-react-app
 ```
 
 The application will be accessible at http://ec2-instance-public-ip:80/
-
