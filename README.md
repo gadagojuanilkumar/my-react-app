@@ -1,5 +1,17 @@
 # Simple MyReactJS Dockerized Application#
 
+Clone the git repo using the following command
+
+```bash
+$ git clone https://github.com/gadagojuanilkumar/my-react-app.git
+```
+
+Go to the "my-react-app" folder using the following command
+
+```bash
+$ cd my-react-app
+```
+
 Build the image using the following command
 
 ```bash
